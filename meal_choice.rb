@@ -1,4 +1,4 @@
-def meal_choice(name = "meat")
-  puts "I will have #{name} for dinner tonight"
+def meal_choice("meat")
+  puts "I will have #{meal_choice} for dinner tonight"
 end
   
